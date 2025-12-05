@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 export default function RelativeList() {
   const relatives = ["Ramesh Uncle", "Sita Aunty", "Vijay Mama", "Kiran Masi"];
 
